@@ -1,0 +1,23 @@
+{
+  "name": "casadocodigo",
+  "version": "1.0.0",
+  "description": "Livraria Casa do Codigo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcospaulopaiva/alura-node-l.git"
+  },
+  "author": "Marcos Paulo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcospaulopaiva/alura-node-l/issues"
+  },
+  "homepage": "https://github.com/marcospaulopaiva/alura-node-l#readme",
+  "dependencies": {
+    "express": "4.16.3"
+  }
+}
